@@ -18,4 +18,3 @@ General Kenobi
 
 ## Section 2
 More sample text here
-Good bye
