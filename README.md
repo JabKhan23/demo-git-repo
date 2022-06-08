@@ -10,3 +10,6 @@ Sample text
 ### 1.1
 Hello there  
 General Kenobi
+
+## Pasta
+![pic of pasta](https://i.kym-cdn.com/photos/images/newsfeed/001/232/748/392)
